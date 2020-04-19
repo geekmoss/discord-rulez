@@ -5,7 +5,7 @@ Nikdy nic nelze plně podchytit textem, jak se říká *černé, na bílém*, č
 
 Při zmínění více trestů za přičinění pak výše trestu závisí na okolnostech jako je recidiva, historie napomenutí a trestů, míra provinění.
 
-Pravidla je možno přebíjet dodatkovými pravidly přímo na serveru, je pro to vyhrazeno 
+Pravidla je možno přebíjet dodatkovými pravidly přímo na serveru, je pro to vyhrazen §4.
 
 Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude odkazovat a bere si je za svá.
 *Je možno do tohoto repositáře přispívat, pokud bude opodstatněno. Je možno tento repositář forkovat a pravidla si upravovat.*
@@ -19,7 +19,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 
 1. Na celém serveru panuje respekt vůči dalším členům. Výjimky se vztahují na sarkasmus, přátelské potyčky a podobné specifické události.  Humoru rozumíme, ale přesto se snažme býti lidmi na obou stranách.
 	1. Jakékoliv hrubé porušení slušného chování (zbytečné hrubé urážení a vulgarismus, xenofobie, a podobně), vyústí v napomenutí.
-2. Moderátor má ve většině případů pravdu, ale chybí dělá každý, je možno se odvolat a požadovat posouzení od dalších moderátorů případně vyšších rolí na daném serveru, pokud máte pochybnosti o nestrannosti moderátora.
+2. Moderátor má ve většině případů pravdu, ale chyby dělá každý, je možno se odvolat a požadovat posouzení od dalších moderátorů případně vyšších rolí na daném serveru, pokud máte pochybnosti o nestrannosti moderátora.
 3. Je-li zjištěno opakované nepodložené a nepravdivé zpochybňování moderátora, vizte § 1, odstavec 2., bude takový uživatel umlčen na dobu minimálně 24 hodin a bude mu uděleno varování. 
 4. Pokud není uvedeno jinak, není vyhrazen kanál pro self-promo a obdobně, je na serveru zakázána libovolná reklama. Porušení může vyústit v umlčení nebo ban.
 	1. Do reklamy se nepočítají odkazy na běžný obsah jako je počasí, zprávy, události, filmy a seriály. Nespadají sem tedy například Vaše videa, která jsou monetizována.
@@ -39,10 +39,10 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 13. Je zakázáno využívat skulin v pravidlech, a žádáme o upozornění na tyto nedostatky.
 14. Vedení serveru si vyhrazuje pozměnit kdykoliv pravidla, nové úpravy však neplatí retrospektivně.  
 15. Neznalost pravidel neomlouvá.
-16. Může být vyžadováno potvrzení o přečtení a souhlas s pravidly, je-li řečeno skrze § 4. Pokud je tak dáno, může mít uživatel bez potvrzení omezený přístup na server.
+16. Může být vyžadováno potvrzení o přečtení a souhlas s pravidly, je-li řečeno skrze §4. Pokud je tak dáno, může mít uživatel bez potvrzení omezený přístup na server.
 
 
-## § 2 Pravidla moderátorů
+## §2 Pravidla moderátorů
 
 1. Každý úkon ve vymáhání pravidel a udělování trestů je nutno evidovat.
 	1. Pokud server (skrze bota) umožňuje evidenci pomocí příkazů, musí je využívat. Není třeba ukládat screenshoty, nahrávky či přepisy konverzací pokud bot zaznamenává události předcházející úkonu. (Například uloženo posledních 100 zpráv, včetně smazaných, které předcházeli vyvolání příkazu)
@@ -50,12 +50,12 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 2. Moderátoři jsou povinni se řídit psanými pravidly, správně radit členům a dodržovat kázeň.
 3. Moderátoři nejsou lidsky více, nesmí se tedy povyšovat a využívat svého postavení.
 
-## § 3 Pravidla hlasových kanálů
+## §3 Pravidla hlasových kanálů
 
 1. Je zakázáno obtěžovat skupinu lidí v hlasovém kanálu:
 	1. Opakovaným záměrným odpojováním a připojováním
 	2. Přesíleným a nepříjemným zvukem (křik, "earrape sounds" a podobně)
 
-## § 4 Doplňková pravidla
+## §4 Doplňková pravidla
 
 > Tento paragraf je otevřený, lze implementaci přímo na serveru. Lze skrze něj rušit, doplňovat či upravovat stávající výše zmíněná pravidla tak jako definovat zcela nová.
