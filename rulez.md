@@ -19,7 +19,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 
 1. Na celém serveru panuje respekt vůči dalším členům. Výjimky se vztahují na sarkasmus, přátelské potyčky a podobné specifické události. Humoru rozumíme, ale přesto se snažme býti lidmi na obou stranách.
 	1. Jakékoliv hrubé porušení slušného chování (zbytečné hrubé urážení, vulgarismus, xenofobie a podobně), vyústí v napomenutí.
-2. Moderátor má ve většině případů pravdu, ale chyby dělá každý, je možno se odvolat a požadovat posouzení od dalších moderátorů, případně vyšších rolí na daném serveru, pokud máte pochybnosti o nestrannosti moderátora.
+2. Ačkoliv má moderátor ve většině případů pravdu, je možno se odvolat a požadovat posouzení od dalších moderátorů, případně vyšších rolí na daném serveru, pokud máte pochybnosti o nestrannosti moderátora.
 3. Je-li zjištěno opakované nepodložené a nepravdivé zpochybňování moderátora, vizte §1, odstavec 2., bude takový uživatel umlčen na dobu minimálně 24 hodin a bude mu uděleno varování. 
 4. Pokud není uvedeno jinak, není-li vyhrazen kanál pro self-promo a obdobně, je na serveru zakázána libovolná reklama. Porušení může vyústit v umlčení nebo ban.
 	1. Do reklamy se nepočítají odkazy na běžný obsah jako je počasí, zprávy, události, filmy a seriály. Nespadají sem tedy například Vaše videa.
