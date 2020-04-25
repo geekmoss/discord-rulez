@@ -25,7 +25,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 	1. Do reklamy se nepočítají odkazy na běžný obsah jako je počasí, zprávy, události, filmy a seriály. Nespadají sem tedy například Vaše videa.
 	2. Výjimku může udělit moderátor po dohodě, je třeba vyčkat na jeho odpověď a respektovat jeho pokynů. Tedy zda má dovoleno jednorázové zaslání či pravidelné, do jakého kanálu a podobně.
 5. Je zakázáno jakékoliv spammování, zahlcování kanálů opakovaným zasíláním emotes či zpráv a další podobné chování, moderátor je oprávněn udělit mute nebo ban.
-6. Je zakázáno zbytečné (zprávy nemající smysl) obtěžování moderátorů a vedení serveru je zakázáno. Například zbytečné a nemyslné dotazy, vyžadování se přijetí do moderátorského týmu či jiné povýšení. Porušení může vyústit v mute nebo ban.
+6. Je zakázáno zbytečné (zprávy nemající smysl) obtěžování moderátorů a vedení serveru. Například zbytečné a nemyslné dotazy, vyžadování se přijetí do moderátorského týmu či jiné povýšení. Porušení může vyústit v mute nebo ban.
 7. Vyzrazování nebo zneuží osobních a citlivých údajů a informací o jiném členovi, je hrubé porušení pravidel a člověk si zahrává i se zákony o ochraně osobních údajů. Tento přečin může vyústit v mute, ale i ban.
 	1. Do tohoto se zahranuje i doxxing, jakožto zneužití osobních informací.
 	2. Každý zodpovídá sám za sebe, pokud o sobě někdo něco prozradí, je to jeho vlastní volba. Je možno skrze §4 zakázat zveřejňování informací a údajů o sobě samém.
