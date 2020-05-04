@@ -35,7 +35,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 11. Moderátorům je dovoleno využívat napomenutí a mute za různé nesmyslné a nestoudné chování, které akorát ostatní uživatele obtěžuje. Jak bylo řečeno v úvodu, nelze vše podchytit v pravidlech. 
 12. Pokud je definovaný topic kanálu (předmět) a případně i další specifika (jak kanál využívat, jakým způsobem přispívat a podobně) dodržujte tento topic. Při nedodržování bude použito napomenutí, v opakovaných případech může vyústit v mute.
 	1. Respektujte témata daných kanálu a jejich zaměření.
-13. Pokud kanál není označen jako NSFW (Discord pro takový kanál má speciální ikonu a při prvním otevření souhlasíte s přístupem do NSFW kanálu), využívejte ho pro NSFW věci. V jiných kanálech NSFW obsah nemá co dělat. Porušování může vést k napomínání či mute.
+13. Pokud kanál není označen jako NSFW (Discord pro takový kanál má speciální ikonu a při prvním otevření souhlasíte s přístupem do NSFW kanálu), nevyužívejte ho pro NSFW věci. V ne-NSFW kanálech nemá NSFW obsah co dělat. Porušování může vést k napomínání či mute.
 13. Je zakázáno využívat skulin v pravidlech, a žádáme o upozornění na tyto nedostatky.
 14. Vedení serveru si vyhrazuje pozměnit kdykoliv pravidla, nové úpravy však neplatí retrospektivně. O aktualizaci pravidel musí být uživatelé informování.
 15. Neznalost pravidel neomlouvá.
