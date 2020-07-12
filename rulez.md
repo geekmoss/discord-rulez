@@ -35,6 +35,8 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 11. Moderátorům je dovoleno využívat napomenutí a mute za různé nesmyslné a nestoudné chování, které akorát ostatní uživatele obtěžuje. Jak bylo řečeno v úvodu, nelze vše podchytit v pravidlech. 
 12. Pokud je definovaný topic kanálu (předmět) a případně i další specifika (jak kanál využívat, jakým způsobem přispívat a podobně) dodržujte tento topic. Při nedodržování bude použito napomenutí, v opakovaných případech může vyústit v mute.
 	1. Respektujte témata daných kanálu a jejich zaměření.
+	2. Pokud je název kanálu samopopisný, tedy topic roomky je impliciteně pochopitelný, není povinnost topic psát, ale je třeba ho dodržovat.
+	3. Pokud se přirozeně vyvine konverzace z jednoho téma do druhého, je dovoleno řešit off-topic téma, ale jeho původ musí být v tématu které do daného kanálu patřilo.
 13. Pokud kanál není označen jako NSFW (Discord pro takový kanál má speciální ikonu a při prvním otevření souhlasíte s přístupem do NSFW kanálu), nevyužívejte ho pro NSFW věci. V ne-NSFW kanálech nemá NSFW obsah co dělat. Porušování může vést k napomínání či mute.
 13. Je zakázáno využívat skulin v pravidlech, a žádáme o upozornění na tyto nedostatky.
 14. Vedení serveru si vyhrazuje pozměnit kdykoliv pravidla, nové úpravy však neplatí retrospektivně. O aktualizaci pravidel musí být uživatelé informování.
