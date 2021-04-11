@@ -14,6 +14,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 
 - **Moderátor**: Administrátor, správce, moderátor a podobné role, jenž dohlíží na chod serveru.
 - **Mute**: Umlčení uživatele (pomocí role), které zamezí zasílání zpráv a/nebo i vlastní komunikaci ve hlasových kanálech.
+- **NSFW**: Anglická zkratka "Not safe for work" tedy označení pro věci a témata, které nejsou zrovna vhodné pro prohlížení v práci, či obecně na veřejnosti.
 
 ## §1 Obecná pravidla
 
@@ -42,6 +43,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 14. Vedení serveru si vyhrazuje pozměnit kdykoliv pravidla, nové úpravy však neplatí retrospektivně. O aktualizaci pravidel musí být uživatelé informování.
 15. Neznalost pravidel neomlouvá.
 16. Může být vyžadováno potvrzení o přečtení a souhlas s pravidly, je-li řečeno skrze §4. Pokud je tak dáno, může mít uživatel bez potvrzení omezený přístup na server.
+17. Je zakázáno na server přispívat věcmi osahující týránní a zabíjení zvířat a lidí.
 
 
 ## §2 Pravidla moderátorů
