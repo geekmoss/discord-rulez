@@ -43,7 +43,7 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 14. Vedení serveru si vyhrazuje pozměnit kdykoliv pravidla, nové úpravy však neplatí retrospektivně. O aktualizaci pravidel musí být uživatelé informování.
 15. Neznalost pravidel neomlouvá.
 16. Může být vyžadováno potvrzení o přečtení a souhlas s pravidly, je-li řečeno skrze §4. Pokud je tak dáno, může mít uživatel bez potvrzení omezený přístup na server.
-17. Je zakázáno na server přispívat věcmi osahující týrání a zabíjení zvířat a lidí.
+17. Je zakázáno na server přispívat věcmi obsahující týrání a zabíjení zvířat a lidí.
 
 
 ## §2 Pravidla moderátorů
