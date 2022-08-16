@@ -48,9 +48,9 @@ Tato pravidla jsou všeobecná, platná pro server, který na tyto pravidla bude
 
 ## §2 Pravidla moderátorů
 
-1. Každý úkon ve vymáhání pravidel a udělování trestů je nutno evidovat.
+1. Každý úkon ve vymáhání pravidel a udělování trestů je nutno evidovat, však po dobu maximálně 30 dnů.
 	1. Pokud server (skrze bota) umožňuje evidenci pomocí příkazů, musí je využívat. Není třeba ukládat screenshoty, nahrávky či přepisy konverzací pokud bot zaznamenává události předcházející úkonu. (Například uloženo posledních 100 zpráv, včetně smazaných, které předcházely vyvolání příkazu)
-	1. Pokud server neumožňuje chytré řešení na evidenci, je nutno mít vytvořený kanál pro evidenci, ve které bude vedena evidence postihů (důvod na mute/ban, jak dlouho v případě mute). Zasílání screenshotů, nahrávek či přepisu konverzace není třeba (aby se předešlo nepřehlednosti kanálu). Ale musí mít tyto materiály kdykoliv na vyžádání dostupné. Pokud tomu tak nebude, bude varován. Opakované nedodržení povinnosti mu bude odejmuta role. 
+	1. Pokud server neumožňuje chytré řešení na evidenci, je nutno mít vytvořený kanál pro evidenci, ve které bude vedena evidence postihů (důvod na mute/ban, jak dlouho v případě mute). Zasílání screenshotů, nahrávek či přepisu konverzace není třeba (aby se předešlo nepřehlednosti kanálu). Ale musí mít tyto materiály na vyžádání dostupné, s ohledem na maximální dobu ponechání evidence. Pokud tomu tak nebude, bude varován. Opakované nedodržení povinnosti mu bude odejmuta role. 
 2. Moderátoři jsou povinni se řídit psanými pravidly, správně radit členům a dodržovat kázeň.
 3. Moderátoři nejsou lidsky více, nesmí se tedy povyšovat a využívat svého postavení.
 
